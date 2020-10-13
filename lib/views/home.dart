@@ -110,6 +110,7 @@ class _HomeState extends State<Home> {
   }
 }
 
+// This is a comment
 class CategoryTile extends StatelessWidget {
   final imageURL;
   final categoryName;
